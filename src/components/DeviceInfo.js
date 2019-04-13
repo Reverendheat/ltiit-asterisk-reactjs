@@ -13,7 +13,7 @@ class DeviceInfo extends React.Component {
     render() {
         return (
             <div>
-                <table className='table'>
+                <table>
                     <thead>
                         <tr>
                             <th>Option Name</th>
